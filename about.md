@@ -8,7 +8,9 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My name is Eli Sobylak. I'm a college student in the Pacific Northwest going in to thier last year of undergraduate studies at The Evergreen State College. While here I've been focusing on computer science as well as psychology. Two subjects I'm very interested both in and outside of academia. 
+I'm writing this blog in with the intention of sharing things that interest me. Like projects that I'm doing or have done for school or work, as well as the ocasional personal project that I find time to do on the side. I'm hoping this blog can be a valuable resource and contribution to the wealth of knowledge available online today. 
+Being from a quite town in lower New York, I find a lot of cool new experiences living out here in Washington. Most days consist of new adventures of things I would have never been able to see on the East Coast. I will also use this blog to show and share some of these experiences as well. 
 
 ### Contact me
 
@@ -34,3 +36,6 @@ while(x=eval(x));
 //-->
 //]]>
 </script>
+
+<a href="https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button">LinkedIn</a>
+
