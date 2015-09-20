@@ -75,7 +75,3 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
-
-pages_list:
-    About: '/about'
-    Archive: '/archive'
