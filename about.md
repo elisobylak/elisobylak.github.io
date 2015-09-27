@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<img class="roundrect" src="/images/Eli_Sobylak_2015.png">
+
 Some information about you!
 
 ### More Information
