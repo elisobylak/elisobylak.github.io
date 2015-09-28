@@ -6,11 +6,9 @@ permalink: /about/
 
 <img class="roundrect" src="/images/Eli_Sobylak_2015.png" height="169" width="150">
 
-Some information about you!
+### Some Information
 
-### More Information
-
-My name is Eli Sobylak. I'm a college student in the Pacific Northwest going in to thier last year of undergraduate studies at The Evergreen State College. While here I've been focusing on computer science as well as psychology. Two subjects I'm very interested both in and outside of academia.<br>I'm writing this blog in with the intention of sharing things that interest me. Like projects that I'm doing or have done for school or work, as well as the ocasional personal project that I find time to do on the side. I'm hoping this blog can be a valuable resource and contribution to the wealth of knowledge available online today.<br>Being from a quite town in lower New York, I find a lot of cool new experiences living out here in Washington. Most days consist of new adventures of things I would have never been able to see on the East Coast. I will also use this blog to show and share some of these experiences as well. 
+My name is Eli Sobylak. I'm a college student in the Pacific Northwest going in to their last year of undergraduate studies at The Evergreen State College. While here I've been focusing on computer science as well as psychology. Two subjects I'm very interested both in and outside of academia.<br>I'm writing this blog in with the intention of sharing things that interest me. Like projects that I'm doing or have done for school or work, as well as the occasional personal project that I find time to do on the side. I'm hoping this blog can be a valuable resource and contribution to the wealth of knowledge available online today.<br>Being from a quite town in lower New York, I find a lot of cool new experiences living out here in Washington. Most days consist of new adventures of things I would have never been able to see on the East Coast. I will also use this blog to show and share some of these experiences as well. 
 
 ### Contact me
 
