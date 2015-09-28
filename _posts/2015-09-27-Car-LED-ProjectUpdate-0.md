@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First real post (Car LED lights: update 0).
+title: First real post-Car LED update 0
 ---
 
 So this is my first real post on my blog here, and I'm excited to start sharing various things I'm doing.
