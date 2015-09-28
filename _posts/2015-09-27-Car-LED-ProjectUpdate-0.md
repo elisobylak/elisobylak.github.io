@@ -4,7 +4,6 @@ title: First real post-Car LED update 0
 ---
 
 So this is my first real post on my blog here, and I'm excited to start sharing various things I'm doing.
-
 The first project I've decided to highlight is a cool project I am working on for another individual's car. And what it is, is a little LED matrix controlled via Arduino to flash a "Thanks" or "Sorry" signal in traffic to car behind it. I've collected most if not all of the pieces I'll need to complete this project. All I have to do now is put it all together. Below is a picture of the materials I've decided to go with for this project.
 <img src="/images/20150927_152936.jpg" height="400" width="500" >
 <br>
