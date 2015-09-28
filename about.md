@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img class="roundrect" src="/images/Eli_Sobylak_2015.png">
+<img class="roundrect" src="/images/Eli_Sobylak_2015.png" height="100" width="150">
 
 Some information about you!
 
