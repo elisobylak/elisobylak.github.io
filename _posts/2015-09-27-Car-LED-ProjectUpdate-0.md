@@ -11,7 +11,7 @@ Starting at the bottom, and going clockwise, you'll see my Arduino UNO on a prot
 
 Next is the Power barrel charger and USB to Car charger I plan to use to power the Arduino and lights once in the car. It's just a 5V adapter with a 1 and 2.1A rating.
 
-The next item is a knock-off UNO I bought off of Ebay for three dollars. The reasons I like this approach of prototyping on a genuine Arduino then switching to a knock off for production is two-fold. One, I like supporting good technologies and companies (buy an Arduino if you're interested. Two, I don't want to put a $20 component in a little side project, so once I know the set-up works on a real board, I can just swap the board for a more economical model. This project could even suffice with an Arduino mini, but I am most familiar with the UNO, so I decided to work with it.
+The next item is a knock-off UNO I bought off of Ebay for three dollars. The reasons I like this approach of prototyping on a genuine Arduino then switching to a knock off for production is two-fold. One, I like supporting good technologies and companies (buy an Arduino if you're interested). Two, I don't want to put a $20 component in a little side project, so once I know the set-up works on a real board, I can just swap the board for a more economical model. This project could even suffice with an Arduino mini, but I am most familiar with the UNO, so I decided to work with it.
 
 The final two items in this picture are the two buttons that the driver will use to flash the pre-programmed signals. I've yet to figure out how these will be mounted for the driver to give them access when they need it. That will be in a later update.
 
