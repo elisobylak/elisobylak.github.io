@@ -8,6 +8,7 @@ This is my first post for the online journal we are keeping over the next two qu
 I have decided to work on the Thurston County Votes Application alongside my class-mate Brianna. We first heard about the project when Carrie Wack and Valerie came and spoke to our class about this opportunity. They are both from the Thurston County Auditor's Office and have been charged with creating a mobile application. This app will center around targeting those with a mobile device(primarily people my age) and attempting to get them to be more civically engaged. It will also help educate and give awareness to the election and voting process in Thurston County. 
 
 Carrie has invited Brianna and I to meet with her on January 15th which is this Friday and discuss where we are going with this project. As an outline, she has sent this in an email;
+<br>
 "Required Mobile App Content:
 
 Election Results by District (SOS)
@@ -45,7 +46,7 @@ They enter their zip code or district number"
 
 In addition, Richard has suggested that we bring an example application to our meeting. This is what I have got so far;
 
-<img class="roundrect" src="/images/2016-01-11_Example_app_Screengrab.jpg" height="400" width="550" >
+<img class="roundrect" src="/images/2016-01-11_Example_app_Screengrab.png" height="400" width="550" >
 <br>
 
 To create this android app, I am using Meteor. This is a service that uses HTML, CSS, and Javascript to create web-based applications for both Android and iOS platforms. It can also therefore be accessed via a browser which makes it cover pretty much all mobile bases. As far as the example app I have mocked up here, it includes a simple interactive google map instance centered around Thurston County. Below this, is a simple list of Ballot Drop Boxes in the Olympia Area. This is what I am going to bring to our meeting and see what they have to say.
