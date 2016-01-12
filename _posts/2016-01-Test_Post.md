@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First real post-Car LED update 0
+title: Test post
 ---
 
 This is a test! Hello World!
