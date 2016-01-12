@@ -46,7 +46,7 @@ They enter their zip code or district number"
 
 In addition, Richard has suggested that we bring an example application to our meeting. This is what I have got so far;
 
-<img class="roundrect" src="/images/2016-01-11_Example_app_Screengrab.png" height="400" width="550" >
+<img class="roundrect" src="/images/2016-01-11_Example_app_Screengrab.png" height="800" width="550" >
 <br>
 
 To create this android app, I am using Meteor. This is a service that uses HTML, CSS, and Javascript to create web-based applications for both Android and iOS platforms. It can also therefore be accessed via a browser which makes it cover pretty much all mobile bases. As far as the example app I have mocked up here, it includes a simple interactive google map instance centered around Thurston County. Below this, is a simple list of Ballot Drop Boxes in the Olympia Area. This is what I am going to bring to our meeting and see what they have to say.
